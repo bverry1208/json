@@ -1,19 +1,19 @@
 {"card": [
     {
       "title": "웹표준 사이트 만들기1",
-      "image": "assets/img/card_bg01.jpg",
+      "image": "https://bverry1208.github.io/react_image/card_bg01.jpg",
       "desc": "사이트를 만들기 위한 기초 강의입니다. 기본 코딩에 대한 감각을 익히고, 웹 표준을 준수하면서 코딩하는 방법을 익힙니다. 다양한 예제를 통해 사이트를 만드는 기본 강의입니다.",
       "btn": "더 자세히 보기"
     },
     {
       "title": "react 사이트 만들기2",
-      "image": "assets/img/card_bg02.jpg",
+      "image": "https://bverry1208.github.io/react_image/card_bg02.jpg",
       "desc": "사이트를 만들기 위한 기초 강의입니다. 기본 코딩에 대한 감각을 익히고, 웹 표준을 준수하면서 코딩하는 방법을 익힙니다. 다양한 예제를 통해 사이트를 만드는 기본 강의입니다.",
       "btn": "더 자세히 보기"
     },
     {
       "title": "vue 사이트 만들기3",
-      "image": "assets/img/card_bg03.jpg",
+      "image": "https://bverry1208.github.io/react_image/card_bg03.jpg",
       "desc": "사이트를 만들기 위한 기초 강의입니다. 기본 코딩에 대한 감각을 익히고, 웹 표준을 준수하면서 코딩하는 방법을 익힙니다. 다양한 예제를 통해 사이트를 만드는 기본 강의입니다.",
       "btn": "더 자세히 보기"
      }
